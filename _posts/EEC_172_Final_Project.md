@@ -4,3 +4,6 @@ We prototype a preference-informed image generator named GIG (Gemini Image Gener
 
 Video Demo
 
+[Demo 1](https://drive.google.com/file/d/1TdWCQVDXb7mLaO_GIa5s5-BlqEVtCD3g/view?usp=sharing)
+[Demo 2](https://drive.google.com/file/d/1-qCOPq1Z8yDBNMBW8Gw79Ih4T1evTE1l/view?usp=sharing)
+[Demo 3](https://drive.google.com/file/d/16mQrOCY7bVm9SjqJxtE2iI8xzXMGkIVn/view?usp=sharing)
