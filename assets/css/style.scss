@@ -50,8 +50,16 @@ h1, h2, h3, h4 {
 }
 
 .post-content p,
-.post-content {
-  text-align: justify;
+.post-content,
+.post-content * {
+  text-align: justify !important;
+}
+
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+  text-align: left !important;
 }
 
 .post-title,
