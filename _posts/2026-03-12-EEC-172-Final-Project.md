@@ -4,6 +4,12 @@ title: "ECS 172 Final Project"
 date: 2026-03-12
 ---
 
+<style>
+  .post-content p {
+    text-align: justify !important;
+  }
+</style>
+
 <h1 style="text-align: center; margin-bottom: 0.2em;">GIG</h1>
 <p style="text-align: center; font-size: 1.2em; color: #5a6a7a; margin-bottom: 2em;">Gemini Image Generator</p>
 
