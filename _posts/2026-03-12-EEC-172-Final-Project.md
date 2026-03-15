@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ECS 172 Final Project"
+title: "EEC 172 Final Project"
 date: 2026-03-12
 ---
 
