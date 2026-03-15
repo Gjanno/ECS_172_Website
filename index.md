@@ -1,3 +1,3 @@
 ---
-title: ECS_172 Final Project
+title: EEC_172 Final Project
 ---
